@@ -1,6 +1,8 @@
 # TEJ2O ⇢ Unit #2-03
 
-[![Mr Coxall's Super Linter](https://github.com/MTHS-TEJ2O-1-2024/<REPOSITORY>/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/MTHS-TEJ2O-1-2024/<REPOSITORY>/actions)
+[![open in codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a01724585567)]
+
+[![Mr Coxall's Super Linter](https://github.com/MTHS-TEJ2O-1-2024/TEJ2O-2-03fixed/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/MTHS-TEJ2O-1-2024/TEJ2O-2-03fixed/actions)
 
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](./LICENSE)
 
